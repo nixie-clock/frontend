@@ -1,4 +1,7 @@
-frontend
-========
+# Nixie Clock on frontend
 
-Nixie Clock frontend version
+## Usage
+~~~~~ js
+var nixie_clock = new NixieClock()
+~~~~~
+
